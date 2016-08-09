@@ -113,8 +113,8 @@
         <configuration>
           <unpackBundle>true</unpackBundle>
           <instructions>
-            <Bundle-Name>org.lucee.jjboss-logging-processor</Bundle-Name>
-            <Bundle-SymbolicName>org.lucee.jjboss-logging-processor</Bundle-SymbolicName>
+            <Bundle-Name>org.lucee.jboss-logging-processor</Bundle-Name>
+            <Bundle-SymbolicName>org.lucee.jboss-logging-processor</Bundle-SymbolicName>
             <Bundle-Description>OSGI version of jar ${project.name}</Bundle-Description>
             <Export-Package>*</Export-Package>
             <!-- <Require-Bundle></Require-Bundle> -->
